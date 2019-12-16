@@ -1,0 +1,4 @@
+androidx/test/core/app/InstrumentationActivityInvoker$BootstrapActivity.class
+androidx/test/core/app/InstrumentationActivityInvoker$BootstrapActivity$1.class
+androidx/test/core/app/InstrumentationActivityInvoker$EmptyActivity.class
+androidx/test/core/app/InstrumentationActivityInvoker$EmptyActivity$1.class
